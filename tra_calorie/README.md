@@ -1,1 +1,1 @@
-Test
+Tracalorie is a project built in Vanilla JS using the Module Pattern. 
